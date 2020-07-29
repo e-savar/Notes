@@ -1,2 +1,2 @@
 # Notes
- Notes App
+ Notes App for Harvard's CS50 course
